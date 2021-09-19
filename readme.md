@@ -2,9 +2,8 @@
 
 Here I'll try to explain a few tiling tips with pictures:
 
-<img_src""  width"400">
-
 If you have a large block of tiles, try to break it up with some corner and wall pieces
+<br><br>
 <img src="https://cdn.discordapp.com/attachments/884306542487281697/889243902392021002/unknown.png"  width="400">
 <br><br>
 
@@ -20,6 +19,7 @@ When you have a corner or wall tile that is not facing air, it should face anoth
 It isn't the worst and is mostly preference, but I think it looks a bit stranger than having more corners to face it. (this is mostly bc my tiling style is very based off of the original celeste classic's tiling, so if you like the tiling in the above image, go ahead :yadelie:)
 
 Use more of those weird tiles that are blank except for dots. I have 0 clue how to explain this properly so have an image: 
+<br><br>
 <img src="https://cdn.discordapp.com/attachments/882393704743178260/889237474071683082/unknown.png"  width="200">
 <br><br>
 Unless your levels have thin tiling, leaving barely any space to put these tiles down, I would recommend randomly sticking a lot of them in empty space to make it look a bit less empty (again, personal preference for this one)
